@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://glognesta.github.io/sitemap.html.gz
+Sitemap: https://glognesta.github.io/app/sitemap.html.gz
+Sitemap: https://glognesta.github.io/assets/sitemap.html.gz
+Sitemap: https://glognesta.github.io/css/sitemap.html.gz
+Sitemap: https://glognesta.github.io/includes/sitemap.html.gz
+Sitemap: https://glognesta.github.io/item/sitemap.html.gz
+Sitemap: https://glognesta.github.io/src/sitemap.html.gz
